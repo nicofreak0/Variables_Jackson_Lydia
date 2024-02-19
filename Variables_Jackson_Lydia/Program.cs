@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int x; //DECLARATION
+            string playerName; // STRING DECLARATION
+            bool isRunning; //
         }
     }
 }
